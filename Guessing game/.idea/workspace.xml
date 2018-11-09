@@ -106,7 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541379243415" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541727948421" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,7 +134,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="28" width="1346" height="688" extended-state="0" />
+    <frame x="-2" y="28" width="1346" height="688" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
